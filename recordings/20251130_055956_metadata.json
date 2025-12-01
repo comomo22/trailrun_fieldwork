@@ -1,0 +1,22 @@
+{
+  "recordingMetadata" : {
+    "location" : {
+      "latitude" : 33.51072372040965,
+      "address" : "福岡県糸島市二丈上深江二丈上深江90",
+      "longitude" : 130.15819814673353,
+      "accuracy" : 10.972832302906534
+    },
+    "duration" : 28.34575,
+    "startedAt" : 786142796.134609,
+    "hostName" : "iPhone",
+    "endedAt" : 786142824.526292
+  },
+  "version" : 2,
+  "audioFileName" : "20251130_055956_recording.m4a",
+  "highlights" : [
+    {
+      "timestamp" : 18.14525,
+      "id" : "F6A37388-3C80-451D-8DC0-EE7E0D8A98D0"
+    }
+  ]
+}
