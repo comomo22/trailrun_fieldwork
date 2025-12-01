@@ -1,0 +1,19 @@
+{
+  "highlights" : [
+
+  ],
+  "audioFileName" : "20251130_083711_recording.m4a",
+  "recordingMetadata" : {
+    "location" : {
+      "latitude" : 33.258471832152445,
+      "address" : "佐賀県多久市多久町多久町西ノ原1837-1",
+      "accuracy" : 45.609511820101034,
+      "longitude" : 130.09668639994302
+    },
+    "duration" : 36.6006875,
+    "endedAt" : 786152268.074618,
+    "hostName" : "iPhone",
+    "startedAt" : 786152231.360032
+  },
+  "version" : 2
+}
