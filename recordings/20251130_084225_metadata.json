@@ -1,0 +1,26 @@
+{
+  "highlights" : [
+    {
+      "timestamp" : 2.1415,
+      "id" : "E3A3C319-41E7-4EB2-A63D-EF521956C7E6"
+    },
+    {
+      "timestamp" : 80.5258125,
+      "id" : "9B347D51-4F12-46E2-89B1-AACB34241DDA"
+    }
+  ],
+  "recordingMetadata" : {
+    "endedAt" : 786152750.323984,
+    "duration" : 204.1845,
+    "startedAt" : 786152546.019812,
+    "hostName" : "iPhone",
+    "location" : {
+      "accuracy" : 62.43029226944173,
+      "address" : "佐賀県多久市多久町多久町西ノ原1837-1",
+      "latitude" : 33.258491236386284,
+      "longitude" : 130.09670706800216
+    }
+  },
+  "audioFileName" : "20251130_084225_recording.m4a",
+  "version" : 2
+}
