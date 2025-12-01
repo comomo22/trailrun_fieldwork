@@ -1,0 +1,30 @@
+{
+  "audioFileName" : "20251130_083801_recording.m4a",
+  "recordingMetadata" : {
+    "duration" : 255.8574375,
+    "startedAt" : 786152281.107434,
+    "hostName" : "iPhone",
+    "endedAt" : 786152537.067015,
+    "location" : {
+      "accuracy" : 59.695896685401344,
+      "address" : "佐賀県多久市多久町多久町西ノ原1837-1",
+      "latitude" : 33.25848660784686,
+      "longitude" : 130.09669071540455
+    }
+  },
+  "version" : 2,
+  "highlights" : [
+    {
+      "id" : "A13D3366-437D-4FBC-9446-161F9977989D",
+      "timestamp" : 3.4378125
+    },
+    {
+      "id" : "14DB1EB1-86A6-4869-86C9-2C2955841F94",
+      "timestamp" : 7.5586875
+    },
+    {
+      "id" : "268D2F79-0BA5-4130-B7BF-074170A8EBFC",
+      "timestamp" : 89.3768125
+    }
+  ]
+}
