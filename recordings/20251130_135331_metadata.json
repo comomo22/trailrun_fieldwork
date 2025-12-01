@@ -1,0 +1,18 @@
+{
+  "highlights" : [
+
+  ],
+  "recordingMetadata" : {
+    "endedAt" : 786171215.196381,
+    "startedAt" : 786171212.100779,
+    "duration" : 3.0205625,
+    "location" : {
+      "latitude" : 33.25793331689088,
+      "longitude" : 130.09666621590569,
+      "accuracy" : 4.748651533556567
+    },
+    "hostName" : "iPhone"
+  },
+  "version" : 2,
+  "audioFileName" : "20251130_135331_recording.m4a"
+}
