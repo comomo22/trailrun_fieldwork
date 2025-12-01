@@ -1,0 +1,22 @@
+{
+  "version" : 2,
+  "recordingMetadata" : {
+    "hostName" : "iPhone",
+    "location" : {
+      "accuracy" : 35.25056417070782,
+      "longitude" : 130.0927728941953,
+      "latitude" : 33.290486618390474,
+      "address" : "佐賀県多久市北多久町北多久町小侍2161"
+    },
+    "endedAt" : 786147414.232326,
+    "startedAt" : 786147218.070994,
+    "duration" : 196.1225
+  },
+  "audioFileName" : "20251130_071337_recording.m4a",
+  "highlights" : [
+    {
+      "timestamp" : 111.087375,
+      "id" : "70F7728E-0B9E-4E83-BB1D-E8A246CBF1EB"
+    }
+  ]
+}
